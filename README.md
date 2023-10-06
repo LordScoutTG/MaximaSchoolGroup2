@@ -1,1 +1,2 @@
-# MaximaSchoolGroup2
+Тестовый проект для практики.
+https://dev.learn.maxima.school/
