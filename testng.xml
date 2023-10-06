@@ -3,7 +3,7 @@
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true" name="C:/Users/USER/Desktop/TestProject">
         <classes>
-        <class name="AuthorizationTest"/>
+        <class name="maxima.AuthorizationTest"/>
         </classes>
     </test>
 </suite>
